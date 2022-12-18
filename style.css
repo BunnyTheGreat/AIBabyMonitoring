@@ -1,0 +1,32 @@
+body {
+    background-size:cover;
+    background-position:center;
+    background:url("https://img.freepik.com/free-vector/gradient-pastel-sky-background_23-2148908629.jpg?w=2000")
+}
+
+.heading {
+    font-size:23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#baby_detected, #status {
+    font-size:20px;
+}
+
+canvas{
+    border:2px dotted white;
+    border-radius:10px;
+    margin-top:130px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.copy_right_footer {
+position:fixed;
+color:aliceblue;
+bottom:0;
+width:100%;
+background-color:gray;
+line-height:2;
+text-align:center;
+}
